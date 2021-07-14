@@ -1,0 +1,1 @@
+{"data":{"minimalBlogConfig":{"basePath":"/","blogPath":"/blog","postsPath":"content/posts","pagesPath":"content/pages","tagsPath":"/tags","externalLinks":[{"name":"Github","url":"https://github.com/ssuwani"}],"navigation":[{"title":"Blog","slug":"/blog"},{"title":"Book","slug":"/book"},{"title":"About","slug":"/about"}],"showLineNumbers":true,"showCopyButton":true}}}

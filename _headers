@@ -52,6 +52,14 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-34803486fb57b98ab7cc.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/어렵게-선형회귀-모델-구하기
+  Link: </webpack-runtime-0ca3d6966ee314e183b7.js>; rel=preload; as=script
+  Link: </framework-f3a47ef4a22d24b14274.js>; rel=preload; as=script
+  Link: </app-2e9f9f34dbc2c5e61f00.js>; rel=preload; as=script
+  Link: </076b648d06f94fa0e68f4094bcf9c1a72c93f983-68970ba5bf0dc1341d80.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-4f3489ae013d979f3668.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/어렵게-선형회귀-모델-구하기/page-data.json>; rel=preload; as=fetch; crossorigin
 /다양한-방법으로-mnist-서빙하기
   Link: </webpack-runtime-0ca3d6966ee314e183b7.js>; rel=preload; as=script
   Link: </framework-f3a47ef4a22d24b14274.js>; rel=preload; as=script
@@ -76,6 +84,21 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-295029b2585000fe597f.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/book/page-data.json>; rel=preload; as=fetch; crossorigin
+/scratch
+  Link: </webpack-runtime-0ca3d6966ee314e183b7.js>; rel=preload; as=script
+  Link: </framework-f3a47ef4a22d24b14274.js>; rel=preload; as=script
+  Link: </app-2e9f9f34dbc2c5e61f00.js>; rel=preload; as=script
+  Link: </076b648d06f94fa0e68f4094bcf9c1a72c93f983-68970ba5bf0dc1341d80.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-295029b2585000fe597f.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/scratch/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/ml
+  Link: </webpack-runtime-0ca3d6966ee314e183b7.js>; rel=preload; as=script
+  Link: </framework-f3a47ef4a22d24b14274.js>; rel=preload; as=script
+  Link: </app-2e9f9f34dbc2c5e61f00.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-250ca9ae5aae5cd5e6bb.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/ml/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/ml-ops
   Link: </webpack-runtime-0ca3d6966ee314e183b7.js>; rel=preload; as=script
   Link: </framework-f3a47ef4a22d24b14274.js>; rel=preload; as=script
@@ -90,18 +113,3 @@
   Link: </component---cache-caches-gatsby-plugin-offline-app-shell-js-96948aa7c77ed0d4edf1.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
-/어렵게-선형회귀-모델-구하기
-  Link: </webpack-runtime-0ca3d6966ee314e183b7.js>; rel=preload; as=script
-  Link: </framework-f3a47ef4a22d24b14274.js>; rel=preload; as=script
-  Link: </app-2e9f9f34dbc2c5e61f00.js>; rel=preload; as=script
-  Link: </076b648d06f94fa0e68f4094bcf9c1a72c93f983-68970ba5bf0dc1341d80.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-4f3489ae013d979f3668.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/어렵게-선형회귀-모델-구하기/page-data.json>; rel=preload; as=fetch; crossorigin
-/tags/ml
-  Link: </webpack-runtime-0ca3d6966ee314e183b7.js>; rel=preload; as=script
-  Link: </framework-f3a47ef4a22d24b14274.js>; rel=preload; as=script
-  Link: </app-2e9f9f34dbc2c5e61f00.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-250ca9ae5aae5cd5e6bb.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/tags/ml/page-data.json>; rel=preload; as=fetch; crossorigin
